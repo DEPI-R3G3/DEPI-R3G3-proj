@@ -10,6 +10,11 @@
 
 ---
 
+## 🌱 Project Name
+**Al Jazeera Nursery** – Marketing Project  
+
+---
+
 ## 🎓 Program Information
 **Digital Egypt Pioneers Initiative (DEPI)**  
 **Track:** Digital Marketing Specialist
@@ -20,7 +25,7 @@
 
 | Member |
 |--------|
-| 🎯 **Mohamed Misbah** |
+| 🎯 **Mohammad Mesbah** |
 | 🎯 **Ahmed Fawzy** |
 | 🎯 **Ehab Mohamed** |
 | 🎯 **Khaled Mahmoud** |
